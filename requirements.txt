@@ -1,0 +1,5 @@
+flask
+pymongo
+flask-compress
+mmh3
+gunicorn

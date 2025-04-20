@@ -1,0 +1,24 @@
+Copyright (c) 2025 Barrientos Family Research Group
+
+This software is free to use, modify, and distribute non-commercially, and any modifications must remain open and clearly documented.
+
+Permission to use, copy, and modify this software is hereby granted, provided that the following conditions are met:
+
+1. The software and any modified or unmodified copies may be distributed only free of charge.
+
+2. Commercial hosting of applications based on this software is permitted, provided that:
+  a. The fee charged covers only the cost of hosting services (e.g., infrastructure, bandwidth, storage, support), and not the software itself;
+  b. Users paying for such hosted services shall have full access to their data stored or generated through use of the application;
+  c. The software itself remains available free of charge, including all source code and any modifications.
+
+3. Any derivative works or modified versions of this software must:
+  a. Be released under this same license (the Barrientos FRG OpenSource License);
+  b. Be made publicly available free of charge;
+  c. Clearly state the nature and scope of all modifications, including who made them and when, in a prominent location within the source code and/or documentation.
+
+4. This license does not restrict the use or distribution of external applications or services that interact with this software, including those that are proprietary or patented, provided that the original software is not modified. However, if the software is modified in any way, the modifications must be made publicly available under this same license.
+
+5. The above copyright notice and this permission notice shall appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+

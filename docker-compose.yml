@@ -1,0 +1,18 @@
+services:
+  kobo-backup:
+    image: ghcr.io/didotb/kobo-backup:1.0.0-rc
+    container_name: kobo-backup
+    environment:
+      MONGODB_HOST: "IP/hostname of MongoDB host"
+      MONGODB_PORT: "Port of MongoDB host"
+      MONGODB_USER: "MongoDB username"
+      MONGODB_PASS: "MongoDB password"
+      TOKEN_SALT: "Generate salt with openssl rand -hex 32"
+      HASH_SEED: "Hash seed in hex format: 0xFF001122"
+      GUNICORN_PROCESSES: "4"
+      GUNICORN_THREADS: "8"
+    volumes:
+      - ./log-file.log:/project/kobo-backup.log
+    ports:
+      - "8008:8008"
+    restart: unless-stopped
